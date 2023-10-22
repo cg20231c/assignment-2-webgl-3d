@@ -9,8 +9,7 @@
   - [Challenges & Learnings](#challenges--learnings)
   - [References & Resources](#references--resources)
   - [Feedback & Future Work](#feedback--future-work)
-  - [Screenshots, Screencast & GIFs](#screenshots--gifs)
-  - [Running the Code](#running-the-code)
+  - [Screenshots, Screencast & GIFs](#screenshots-screencast--gifs)
   - [Contribution & Collaboration](#contribution--collaboration)
 
 ## Objective
